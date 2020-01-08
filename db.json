@@ -1,5 +1,11 @@
- {
-    "id": 1,
-    "country": "Malaysia",
-    "state": "Selangor" 
- }
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
