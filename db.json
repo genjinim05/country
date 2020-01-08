@@ -1,16 +1,8 @@
 {
-  "Country": [
+  "posts": [
     {
       "id": 1,
-      "Name": "Malaysia"
-    },
-    {
-      "id": 2,
-      "Name": "Singapore"
-    },
-    {
-      "id": 3,
-      "Name": "China"
+      "title": "Post 1"
     }
-  ]
+   ]
 }
