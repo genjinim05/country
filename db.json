@@ -1,7 +1,5 @@
 {
     "Malaysia": [
-    {
-       "states": [
         {"id": 1, "name": "Johor"},
         {"id": 2, "name": "Kedah"},
         {"id": 3, "name": "Kelantan"},
@@ -18,36 +16,29 @@
         {"id": 14, "name": "Sarawak"},
         {"id": 15, "name": "Selangor"},
         {"id": 16, "name": "Terengganu"}
-     ]
-    }
    ],
     "Korea": [
-       {
-        "id": 2,
-        "states": [
-            "Busan",
-            "Daegu",
-            "Daejeon",
-            "Gangwon Province",
-            "Gwangju",
-            "Gyeonggi Province",
-            "Incheon",
-            "Jeju",
-            "North Chungcheong Province",
-            "North Gyeongsang Province",
-            "North Jeolla Province",
-            "Sejong City",
-            "Seoul",
-            "South Chungcheong Province",
-            "South Gyeongsang Province",
-            "South Jeolla Province",
-            "Ulsan"
-        ]
-      }
+        {"id": 17, "name": "Busan"},
+        {"id": 18, "name": "Daegu"},
+        {"id": 19, "name": "Daejeon"},
+        {"id": 20, "name": "Gangwon Province"},
+        {"id": 21, "name": "Gwangju"},
+        {"id": 22, "name": "Gyeonggi Province"},
+        {"id": 23, "name": "Incheon"},
+        {"id": 24, "name": "Jeju"},
+        {"id": 25, "name": "North Chungcheong Province"},
+        {"id": 26, "name": "North Gyeongsang Province"},
+        {"id": 27, "name": "North Jeolla Province"},
+        {"id": 28, "name": "Sejong City"},
+        {"id": 29, "name": "Seoul"},
+        {"id": 30, "name": "South Chungcheong Province"},
+        {"id": 31, "name": "South Gyeongsang Province"},
+        {"id": 32, "name": "South Jeolla Province"},
+        {"id": 33, "name": "Ulsan"}
     ],
      "USA": [
        {
-        "id": 3,
+        "id": 34,
         "states": [
             "Alabama",
             "Alaska",
