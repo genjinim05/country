@@ -1,25 +1,24 @@
 {
     "Malaysia": [
     {
-        "id": 1,
-        "states": [
-            "Johor",
-            "Kedah",
-            "Kelantan",
-            "Kuala Lumpur",
-            "Labuan",
-            "Melaka",
-            "Negeri Sembilan",
-            "Pahang",
-            "Penang",
-            "Perak",
-            "Perlis",
-            "Putrajaya",
-            "Sabah",
-            "Sarawak",
-            "Selangor",
-            "Terengganu"
-        ]
+       "states": [
+        {"id": 1, "name": "Johor"},
+        {"id": 2, "name": "Kedah"},
+        {"id": 3, "name": "Kelantan"},
+        {"id": 4, "name": "Kuala Lumpur"},
+        {"id": 5, "name": "Labuan"},
+        {"id": 6, "name": "Melaka"},
+        {"id": 7, "name": "Negeri Sembilan"},
+        {"id": 8, "name": "Pahang"},
+        {"id": 9, "name": "Penang"},
+        {"id": 10, "name": "Perak"},
+        {"id": 11, "name": "Perlis"},
+        {"id": 12, "name": "Putrajaya"},
+        {"id": 13, "name": "Sabah"},
+        {"id": 14, "name": "Sarawak"},
+        {"id": 15, "name": "Selangor"},
+        {"id": 16, "name": "Terengganu"}
+     ]
     }
    ],
     "Korea": [
