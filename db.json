@@ -1,9 +1,9 @@
 {
     "country": [
     {
-      "id": 1,
-      "name": "Malaysia",
-      "states": [
+      "Malaysia": [
+        "id": 1,
+        "states": [
             "Johor",
             "Kedah",
             "Kelantan",
@@ -21,6 +21,7 @@
             "Selangor",
             "Terengganu"
         ]
+      ]
     },
   {
     "id": 2,
