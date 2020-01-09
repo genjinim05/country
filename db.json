@@ -1,5 +1,5 @@
 [
-    {
+   {
       "id": 1,
       "name": "Malaysia",
       "states": [
@@ -115,5 +115,5 @@
             "Wisconsin",
             "Wyoming"
         ]
-     }
+    }
 ]
