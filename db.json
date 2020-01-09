@@ -1,7 +1,6 @@
 {
-    "country": [
+    "Malaysia": [
     {
-      "Malaysia": [
         "id": 1,
         "states": [
             "Johor",
@@ -21,12 +20,12 @@
             "Selangor",
             "Terengganu"
         ]
-      ]
-    },
-  {
-    "id": 2,
-    "name": "Korea",
-    "states": [
+    }
+   ],
+    "Korea": [
+       {
+        "id": 2,
+        "states": [
             "Busan",
             "Daegu",
             "Daejeon",
@@ -45,11 +44,12 @@
             "South Jeolla Province",
             "Ulsan"
         ]
-    },
-  {
-    "id": 3,
-    "name": "USA",
-    "states": [
+      }
+    ],
+     "USA": [
+       {
+        "id": 3,
+        "states": [
             "Alabama",
             "Alaska",
             "American Samoa",
